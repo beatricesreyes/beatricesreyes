@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Beatrice!</h1>
-<h3 align="center">A Digital Marketing Specialist from Philippines, currently a Web student in Canada.</h3>
+<h3 align="center">A Digital Marketing Specialist from Philippines, now a Web Developer in Canada.</h3>
 
-- 📫 How to reach me **beatricesreyes@gmail.com**
+- 📫 How to reach me **beasreyes93@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
